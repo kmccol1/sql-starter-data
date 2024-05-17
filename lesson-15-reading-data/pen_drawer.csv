@@ -1,4 +1,4 @@
-drawer_id,color,quantity,refill,supply_id
+drawer_id,pen_color,quantity,refill,supply_id
 1,Blue,19,1,1
 2,Red,78,0,5
 3,Red,4,1,1
